@@ -72,5 +72,5 @@ services:
 - 1.0.1 &nbsp;
   1.1.24
 - 1.0.2 &nbsp;
-  1.1.24&nbsp;
+  1.1.24<br>
   Update with an updated version that isn't published on the npm registry
