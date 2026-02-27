@@ -77,3 +77,6 @@ services:
 - 1.0.3 &nbsp;
   1.1.24<br>
   Fixes the generated channels not being playable
+- 1.0.4 &nbsp;
+  1.1.24<br>
+  Generated channels with V2 API and correct JWT implementaton

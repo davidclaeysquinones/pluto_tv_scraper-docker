@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GIT_REPO_URL="https://github.com/4v3ngR/pluto_tv_scraper.git"
-GIT_COMMIT="dd21bff73620c11b5a8c9c43a96bc96cd804896e"
+GIT_COMMIT="f40908dd18f0f9ee6a770a35c3bea594ba524548"
 BUILD_FOLDER="/build"
 BIN_FOLDER=$"/bin/pluto"
 
