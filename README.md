@@ -74,3 +74,6 @@ services:
 - 1.0.2 &nbsp;
   1.1.24<br>
   Update with an updated version that isn't published on the npm registry
+- 1.0.3 &nbsp;
+  1.1.24<br>
+  Fixes the generated channels not being playable
