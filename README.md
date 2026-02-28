@@ -80,3 +80,6 @@ services:
 - 1.0.4 &nbsp;
   1.1.24<br>
   Generated channels with V2 API and correct JWT implementaton
+- 1.0.5 &nbsp;
+  1.1.24<br>
+  Url caching improvements
