@@ -108,7 +108,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_HUB_USERNAME }}
           password: ${{ secrets.DOCKER_HUB_PASSWORD }}  
-          repository: davidquinonescl/hyperion-docker
+          repository: davidquinonescl/pluto-tv-scraper
       - name: Build and push
         uses: https://github.com/docker/build-push-action@v5
         with:
