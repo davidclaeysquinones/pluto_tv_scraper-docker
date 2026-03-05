@@ -83,3 +83,6 @@ services:
 - 1.0.5 &nbsp;
   1.1.24<br>
   Url caching improvements
+- 1.0.6 &nbsp;
+  1.1.24<br>
+  Addition of extra logging
