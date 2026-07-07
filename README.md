@@ -86,3 +86,6 @@ services:
 - 1.0.6 &nbsp;
   1.1.24<br>
   Addition of extra logging
+- 1.0.7 &nbsp;
+  1.1.24<br>
+  Update node version and configuration
