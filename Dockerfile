@@ -1,4 +1,4 @@
-FROM node:23-alpine
+FROM node:24-alpine
 ARG BIN_FOLDER=/bin
 ARG PLUTO_FOLDER=pluto
 ARG FIXES_FOLDER_ARG=fixes
